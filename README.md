@@ -1,42 +1,17 @@
 
 
-[**我帮阿里云推广服务器 买来送自己，现在最低89/年（很便宜了！），送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈，(老用户用家人账号买就好了，我用我女朋友的 ）。扫码或者点击购买**](https://www.aliyun.com/minisite/goods?userCode=pfn5xpli&share_source=copy_link)
-
-![img](https://pic1.zhimg.com/80/v2-89648b1863fd1160a780b7bf3d01d345_hd.jpg)
-
-
-我写了一篇教程：[**搭建教程，从0开始一步一步带你搭建**](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/MQqasjPs4Y-OCjQLuFj4ew)
+写了一篇教程：[**搭建教程，从0开始一步一步带你搭建**](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/MQqasjPs4Y-OCjQLuFj4ew)
 
 ***
 
-从Java基础、JavaWeb基础到常用的框架再到面试题都有**完整的教程**，几乎涵盖了Java后端必备的知识点。该开源仓库的文章都是我**个人原创**，公众号发过的技术文章（干货）也会有相关的目录整理，很多知识点我还在不停的总结和完善。点击关注<a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
-及时获取最新文章
+从Java基础、JavaWeb基础到常用的框架再到面试题都有**完整的教程**，几乎涵盖了Java后端必备的知识点。
 
 :sparkling_heart:我希望这个开源仓库：
 
 - 能给你学习时带来帮助
 - 能给你感受文章的温度
 - 能帮助你构建知识体系
-- ...
-
-
-
-
-
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=400px height=400px />
-
-
-
-<p align="center">
-  <a href="#目录"><img src="https://img.shields.io/badge/目录(善用搜索)-read-brightgreen.svg" alt="阅读"></a>
-  <a href="#微信群"><img src="https://img.shields.io/badge/chat-加入微信群-lightgrey.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/关注公众号-Java3y-blue.svg" alt="公众号"></a>
-  <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
-  <a href="https://www.zhihu.com/people/Java_3y/activities"><img src="https://img.shields.io/badge/关注-知乎-critical.svg" alt="知乎"></a>
-  <a href="https://i-beta.cnblogs.com/"><img src="https://img.shields.io/badge/关注-博客园-brightgreen.svg" alt="博客园"></a>
-  <a href="https://github.com/ZhongFuCheng3y/JavaSystem"><img src="https://img.shields.io/badge/推荐阅读-大佬文章-brightgreen.svg" alt="推荐阅读"></a>
-</p>
-
+- ..
 
 **<a name="目录">:notebook:目录(善用ctrl+F)</a>**
 
@@ -489,27 +464,3 @@
 - [毕业半年，买了一台MacBook Pro](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486285&idx=1&sn=073115f7efaba09c87a8e57f7d88e319&chksm=ebd74a4cdca0c35a28f8621d0750517572e39e722af99eec1b30dcbeb6d11fc0a595bc7cae33&token=1436027357&lang=zh_CN#rd)
 - [这一年](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486418&idx=1&sn=14362cd3c31c1df6540bb135cfd9e82f&chksm=ebd74ad3dca0c3c55bf912b5bda4b536013f7aba88b52a7cf17d3d50dc2133916d6312c262b2&token=1436027357&lang=zh_CN#rd)
   
-
-
-
-#### :sparkling_heart:<a name="微信群">加入微信群</a> ###
-
-
-添加我的微信备注“**加群**”，即可加入技术交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。技术交流为主，拒绝营销广告，开发学习工作中遇到问题可以在微信群交流。欢迎有需要的朋友加群。
-
-<img src='https://user-gold-cdn.xitu.io/2020/2/27/17085312556871be?w=752&h=974&f=png&s=223055' width=400px height=500px />
-
-
-#### :sparkling_heart:<a name="公众号">加入公众号</a> ###
-
-如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号Java3y。
-
-
-- :bell:**获取Java精美脑图**
-- :clipboard:**获取Java学习路线**
-- :sound:**获取开发常用工具**
-
-
-在公众号下回复「**888**」即可获取！！
-
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=400px height=400px />
